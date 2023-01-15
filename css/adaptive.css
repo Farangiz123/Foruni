@@ -1,0 +1,195 @@
+@media(max-width:5000px){
+    .word p{
+        margin: 0 auto; 
+    }
+    .word {
+        margin: 0 auto;
+    }
+    footer p {
+        margin: 0 auto;
+    }
+}
+@media(max-width:2560px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(-2.5vw - 43px); 
+    }
+    /* .convert2 {
+        margin-left: 200px;
+    } */
+    .case1 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+    }
+    .m3 {
+        margin-top: calc(1vw - 0.1px);
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); 
+    }
+    .list9 {
+        margin: 0 auto; 
+    }
+    .word p{
+        margin: 0 auto; 
+    }
+    .word {
+        margin: 0 auto;
+    }
+    .resent {
+        margin: 0 auto;  /*universal*/
+    }
+    footer p {
+       margin: 0 auto;
+    }
+    #hoop {
+        margin: 0 auto;
+    }
+    #loop {
+        text-align: center;
+        margin-left: calc(42vw - 124px);
+    }
+    section {
+        margin: 0 auto;
+    }
+    .pink7 p {
+        font-size: calc(5.2vw + 8.2px);
+        margin: 0 auto;
+    }
+    .resent {
+        padding: 0;
+    }
+    .vlogtune1 , .vlogtune2{
+        width: calc(83vw - 0.8px);
+    }
+    .joc img {
+        margin-left: calc(9vvw + 0.1px);
+    }
+}
+@media(max-width:1440px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px);
+    }
+    .m3 {
+        margin-top: calc(5vw - 0.1px);
+    }
+    .m2 {
+        font-size: calc(4.5vw - 0.2px);
+        height: calc(16.6vw - 0.5px);
+        width: calc(59vw - 1.1px);
+    }
+    .second {
+        display: flex;
+        gap: calc(7.5vw + 0.7px);
+    }
+    .convert1 {
+        width: calc(39vw);
+    }
+    footer p {
+        margin: 0 auto;
+    }
+    .list9 {
+        margin: 0 auto;
+    }
+    .word p{
+        margin: 0 auto;
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(29vw - 7px);
+    }
+    .resent {
+        padding: 0;
+    }
+    .vlogtune1 , .vlogtune2{
+        width: calc(83vw - 0.8px);
+    }
+    .joc img {
+        margin-left: calc(9vvw + 0.1px);
+    }
+}
+@media(max-width:1024px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px); /*320px gacha*/
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); /*320px gacha*/
+    }
+    .blue {
+        width: calc(52vw - 66px);
+        height: calc(27vw + 12px);  /*320px gacha*/
+    }
+    .resent {
+        padding: calc(7.7vw + 0.1px);
+    }
+    .joc img {
+        margin-left: calc(11vvw - 30px);
+    }
+}
+@media(max-width:768px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px); /*320px gacha*/
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); /*320px gacha*/
+    }
+    .blue {
+        width: calc(52vw - 66px);
+        height: calc(27vw + 12px);  /*320px gacha*/
+    }
+}
+@media(max-width:425px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px); /*320px gacha*/
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); /*320px gacha*/
+    }
+    .blue {
+        width: calc(52vw - 66px);
+        height: calc(27vw + 12px);  /*320px gacha*/
+    }
+}
+@media(max-width:375px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px); /*320px gacha*/
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); /*320px gacha*/
+    }
+    .blue {
+        width: calc(52vw - 66px);
+        height: calc(27vw + 12px);  /*320px gacha*/
+    }
+}
+@media(max-width:320px){
+    .convert2 img {
+        width: calc(26vw + 14px);
+        height: calc(26vw + 14px);
+        margin-left: calc(16.5vw - 43px); /*320px gacha*/
+    }
+    .list9 img {
+        width: calc(29vw - 7px);
+        height: calc(34vw + 110px); /*320px gacha*/
+    }
+    .blue {
+        width: calc(52vw - 66px);
+        height: calc(27vw + 12px);  /*320px gacha*/
+    }
+}
